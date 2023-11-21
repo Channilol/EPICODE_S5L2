@@ -374,10 +374,10 @@ aside div {
 }
 
 .etichetta {
-  width: 5rem;
+  font-size: 4rem;
   position: absolute;
-  top: 1vh;
-  right: 5px;
+  top: 2vh;
+  right: 2vw;
   opacity: 0.1;
 }
 
