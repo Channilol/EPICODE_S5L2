@@ -430,7 +430,7 @@ aside div p:last-child {
   color:rgb(220, 50, 20);
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 600px) {
   #stickyContainer {
     position: fixed;
     top: 0px;
